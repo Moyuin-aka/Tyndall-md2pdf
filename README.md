@@ -37,3 +37,6 @@ pnpm pdf input.md
 - 表格、列表、引用、脚注等完整 Markdown 语法
 - 页脚（标题 + 页码）
 - 亮色 / 暗色主题
+
+## LICENSE
+`GPL-3.0 license`

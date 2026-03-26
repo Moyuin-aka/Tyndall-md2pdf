@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 /**
  * md2pdf.mjs — Convert Markdown to PDF with Tyndall blog styles
+ * Copyright (c) 2026 Moyuin. Licensed under GPL-3.0.
  *
  * Usage:
  *   node tools/md2pdf.mjs <input.md> [output.pdf]
